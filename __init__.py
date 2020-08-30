@@ -6,6 +6,10 @@ import wave
 
 
 #----------------------
+#python setup.py register sdist upload
+#
+
+
 
 #define stream chunk   
 chunk = 1024  

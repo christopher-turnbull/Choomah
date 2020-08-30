@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/choomah-exception.iml" filepath="$PROJECT_DIR$/.idea/choomah-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/choomah.iml" filepath="$PROJECT_DIR$/.idea/choomah.iml" />
     </modules>
   </component>
 </project>
