@@ -4,6 +4,9 @@
 import pyaudio  
 import wave  
 
+
+#----------------------
+
 #define stream chunk   
 chunk = 1024  
 

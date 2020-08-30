@@ -8,7 +8,8 @@ Comprehensive code and documentation is left as an exercise to the reader.
 
 The **Python choomah-expection** allows:
 
-- The playing of the said 'choomah scream' everytime an exception is captured (similar to oooOOOOAAAAAAAAAAA )
+- The playing of the said 'choomah scream' everytime an exception is captured (similar to oooOOOOAAAAAAAAAAA)
+- Overwriting other exceptions in progress
 
 Future versions are working on controlling system volume
 
